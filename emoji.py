@@ -44,6 +44,8 @@ print(emoji.emojize('Python is :rocket:'))
 print(emoji.demojize("Python is 😱 "))
 print(emoji.emojize("Python is :face_screaming_in_fear: "))
 
+# this is a test for git cmd
+
 
 
 
